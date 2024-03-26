@@ -16,7 +16,7 @@ const Contact = () => {
             placeholder="Enter your email"
           />
           <button className="w-full bg-[#1a1a1a] hover:bg-[#3a3a3a] text-center py-2 mt-2 text-white">
-            See what were doing
+            See what we're doing
           </button>
         </form>
       </div>
